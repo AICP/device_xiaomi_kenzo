@@ -1,12 +1,12 @@
 [
- {
- "repository": "CyanogenMod/android_kernel_xiaomi_msm8956",
- "target_path": "kernel/xiaomi/msm8956"
- "branch": "cm-13.0"
- },
- {
- "repository": "TheMuppets/proprietary_vendor_xiaomi",
- "target_path": "vendor/xiaomi",
- "branch": "cm-13.0"
- }
+  {
+    "repository": "CyanogenMod/android_kernel_xiaomi_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "branch":      "cm-13.0"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "cm-13.0"
+  }
 ]
