@@ -5,8 +5,8 @@
     "branch":      "cm-14.0"
   },
   {
-    "repository": "TheStrix/proprietary_vendor_xiaomi",
+    "repository": "AICP/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch":      "cm-14.0"
+    "branch":      "n7.0"
   }
 ]
