@@ -1,16 +1,16 @@
 [
   {
-    "repository": "CyanogenMod/android_kernel_xiaomi_msm8956",
+    "repository":  "CyanogenMod/android_kernel_xiaomi_msm8956",
     "target_path": "kernel/xiaomi/msm8956",
     "branch":      "cm-14.0"
   },
   {
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository":  "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch": "cm-14.0"
+    "branch":      "cm-14.1"
   },
   {
-    "repository": "AICP/proprietary_vendor_xiaomi",
+    "repository":  "AICP/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch":      "n7.0"
   }
