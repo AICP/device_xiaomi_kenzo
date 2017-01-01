@@ -1,11 +1,11 @@
 [
   {
-    "repository":  "CyanogenMod/android_device_xiaomi_msm8956-common",
+    "repository":  "LineageOS/android_device_xiaomi_msm8956-common",
     "target_path": "device/xiaomi/msm8956-common",
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "CyanogenMod/android_device_qcom_common",
+    "repository":  "LineageOS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "cm-14.1"
   },
@@ -15,12 +15,12 @@
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_xiaomi_msm8956",
+    "repository":  "LineageOS/android_kernel_xiaomi_msm8956",
     "target_path": "kernel/xiaomi/msm8956",
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "CyanogenMod/android_packages_resources_devicesettings",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch":      "cm-14.1"
   }
