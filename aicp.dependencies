@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "LineageOS/android_device_xiaomi_msm8956-common",
+    "repository":  "AICP/device_xiaomi_msm8956-common",
     "target_path": "device/xiaomi/msm8956-common",
-    "branch":      "cm-14.1"
+    "branch":      "n7.1-k"
   },
   {
     "repository":  "LineageOS/android_device_qcom_common",
