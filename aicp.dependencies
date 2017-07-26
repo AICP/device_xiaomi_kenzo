@@ -10,7 +10,7 @@
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "dragonGR/proprietary_vendor_xiaomi",
+    "repository":  "AICP/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch":      "n7.1"
   },
