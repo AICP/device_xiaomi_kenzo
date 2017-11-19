@@ -15,9 +15,9 @@
     "branch":      "o8.0"
   },
   {
-    "repository":  "dragonGR/android_kernel_xiaomi_msm8956",
+    "repository":  "LineageOS/android_kernel_xiaomi_msm8956",
     "target_path": "kernel/xiaomi/msm8956",
-    "branch":      "upstream/lineage"
+    "branch":      "lineage-15.0"
   },
   {
     "repository":  "LineageOS/android_packages_resources_devicesettings",
