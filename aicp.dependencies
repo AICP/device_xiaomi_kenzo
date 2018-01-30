@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "AICP/device_xiaomi_msm8956-common",
+    "target_path": "device/xiaomi/msm8956-common",
+    "branch": "o8.1"
+  },
+  {
+    "repository": "dragonGR/IceColdKernel",
+    "target_path": "kernel/xiaomi/msm8956",
+    "branch": "o8.1-rom"
+  },
+  {
+    "repository": "dragonGR/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "o8.1"
+  }
+]
